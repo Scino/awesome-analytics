@@ -164,6 +164,7 @@ The tools listed here are not necessarily mobile analytics tools only. However t
 * [Adjust](http://adjust.com/) - open-source SDK with sophisticated analysis and campaign tracking. `©` `SaaS`
 * [Clickmeter](https://clickmeter.com) - analytics tool that helps you track marketing campaigns. `©` `SaaS`
 * [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
+* [OneLence](https://onelence.com/) - Marketing analytics: what to scale, hold or stop across ads, SEO, AI search and affiliates. `©` `SaaS`
 
 ## Social media analytics
 
